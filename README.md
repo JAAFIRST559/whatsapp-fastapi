@@ -1,6 +1,6 @@
 # ** Hey There, I'm Jasmine Ilakkia Neviskennedy, and I've Developed the WhatsApp Messaging via FastAPI Project**
 - In this project, I’ve built a FastAPI application that integrates with Meta’s WhatsApp Business Manager API to send WhatsApp messages programmatically. The core objective was to expose an endpoint (/send_message) that allows users to send a predefined message ("Hello, this is a test message from our TMBC bot!") to a specified phone number.
-- What I've Done:
+## What I've Done:
 Phone Number Validation: I implemented a phone number validation feature that ensures the number is in the correct E.164 format (e.g., +1234567890), preventing errors or bad data from being processed.
 
 WhatsApp Message Integration: I integrated with Meta’s WhatsApp Business API to send messages via HTTP requests, utilizing the API's authentication mechanisms.
